@@ -4,10 +4,10 @@ const Bar = () => {
       <span
         style={{
           position: "absolute",
-          top: "10px",
+          top: "0px",
           display: "inline-block",
           width: "10px",
-          height: "3px",
+          height: "1px",
           backgroundColor: "grey",
         }}
       ></span>
