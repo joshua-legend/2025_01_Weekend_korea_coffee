@@ -1,5 +1,13 @@
+import Banner from "@/widgets/banner/Banner";
+import Menu from "@/widgets/menu/Menu";
+
 const Page = () => {
-  return <div>메뉴 페이지</div>;
+  return (
+    <main>
+      <Banner />
+      <Menu />
+    </main>
+  );
 };
 
 export default Page;
