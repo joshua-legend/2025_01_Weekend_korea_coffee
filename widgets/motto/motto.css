@@ -1,0 +1,16 @@
+.heading {
+  position: relative;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.heading::before {
+  content: "Our Story";
+  position: absolute;
+  top: -30%;
+  left: 0px;
+  transform: rotate(-20deg);
+  color: orange;
+  font-size: 40px;
+  font-family: "CookieRun-Regular";
+}
