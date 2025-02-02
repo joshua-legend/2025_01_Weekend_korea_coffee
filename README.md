@@ -1,8 +1,8 @@
-# React 확장판은 Next.js
+# 5개월 2주차
 
-# app 폴더에 name 폴더를 만들면, cake 폴더 만들면
+# 5개월 3주차 ~ 4주차
 
-=> /name [새로운 페이지]
-=> /cake [새로운 페이지]
+# 6개월
 
-# page.jsx
+1. 코드리뷰
+2. javascript 백엔드 프레임워크(=nest.js/실험쥐)
